@@ -1,0 +1,15 @@
+# Data supplied with the assignment
+data/
+
+# Generated analysis outputs
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# OS and editor files
+.DS_Store
+.vscode/
